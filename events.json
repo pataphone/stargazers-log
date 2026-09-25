@@ -1,0 +1,38 @@
+[
+  {
+    "name": "awesome-project",
+    "owner": "octocat",
+    "description": "A clean starter template for building collaborative software projects.",
+    "language": "JavaScript",
+    "html_url": "https://github.com/octocat/awesome-project",
+    "stargazers_count": 256,
+    "starred_at": "2026-09-12T10:30:00Z"
+  },
+  {
+    "name": "design-system",
+    "owner": "microsoft",
+    "description": "Reusable UI components and design tokens for product teams.",
+    "language": "TypeScript",
+    "html_url": "https://github.com/microsoft/design-system",
+    "stargazers_count": 874,
+    "starred_at": "2026-08-28T14:05:00Z"
+  },
+  {
+    "name": "cli-tools",
+    "owner": "github",
+    "description": "Helpful command-line utilities for local development and automation.",
+    "language": "Python",
+    "html_url": "https://github.com/github/cli-tools",
+    "stargazers_count": 1324,
+    "starred_at": "2026-07-05T08:15:00Z"
+  },
+  {
+    "name": "notes-app",
+    "owner": "vercel",
+    "description": "A lightweight app for storing and organizing developer notes.",
+    "language": "CSS",
+    "html_url": "https://github.com/vercel/notes-app",
+    "stargazers_count": 512,
+    "starred_at": "2026-06-19T16:40:00Z"
+  }
+]
